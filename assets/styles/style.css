@@ -40,6 +40,10 @@ section .wsc-text {
     color: pink;
 }
 
+section .growing-text {
+    color: #FFD372;
+}
+
 @media screen and (max-width: 992px) {
     main section .hide-in-lg {
         display: none;

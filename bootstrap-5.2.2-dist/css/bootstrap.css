@@ -3363,6 +3363,7 @@ fieldset:disabled .btn {
   --bs-btn-color: rgb(0, 0, 0);
     font-weight: bold;
     padding: 10px 25px;
+    border-width: 2px;
   --bs-btn-bg: pink;
   --bs-btn-border-color: black;
   --bs-btn-hover-color: #fff;
