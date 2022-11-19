@@ -1,0 +1,47 @@
+/* nav stlyes */
+
+.main-brand-text {
+    font-weight: bold;
+    color: pink;
+}
+
+.nav-link:hover {
+    color: pink;
+    transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out;
+}
+
+nav img {
+    height: 75px;
+}
+
+@media screen and (max-width: 520px) {
+    nav .hide-in-smartphone {
+        display: none;
+    }
+}
+
+/* main style */
+
+main .main-konten-pict {
+    height: 350px;
+    padding-right: 0;
+    margin-left: 0;
+}
+
+section h1 {
+    font-size: 4rem;
+}
+
+section img {
+    height: 450px;
+}
+
+section .wsc-text {
+    color: pink;
+}
+
+@media screen and (max-width: 992px) {
+    main section .hide-in-lg {
+        display: none;
+    }
+}
