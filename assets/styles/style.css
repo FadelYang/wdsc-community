@@ -81,3 +81,13 @@ article section .second-main-image {
     height: 200px;
     width: 200px;
 }
+
+/* fivth content */
+
+.fivth-content-img {
+    border: none;
+}
+
+.fivth-content-img img {
+    border-radius: 5px;
+}
