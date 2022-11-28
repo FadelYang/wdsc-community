@@ -97,3 +97,9 @@ article section .second-main-image {
         height: 420px;
     }
 }
+
+@media screen and (max-width: 1000px) {
+    .fivth-content-img {
+        margin: 0 auto;
+    }
+}
