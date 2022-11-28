@@ -91,3 +91,9 @@ article section .second-main-image {
 .fivth-content-img img {
     border-radius: 5px;
 }
+
+@media screen and (max-width: 700px) {
+    .card-mengapa {
+        height: 420px;
+    }
+}
